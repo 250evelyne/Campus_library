@@ -57,23 +57,25 @@ A comprehensive iOS library management system built with SwiftUI and Core Data. 
 ## 📸 Screenshots
 
 ### Books View
-![Books View](Screenshots/books_view.png)
-*Browse and search books with category filtering*
+![Books](screenshots/books_view.png)
 
-### Members View
-![Members View](screenshots/members_view.png)
-*Manage library members and view their borrowing history*
+### Members Management
+![Members](screenshots/members_view.png)
 
-![Members View](screenshots/add_memberview.png)
-![Members View](screenshots/member_detailsview.png)
+### Member Details
+![Details](screenshots/member_detailsview.png)
 
-### Borrow Screen
-![Borrow Screen](screenshots/borrow_view.png)
-*Simple interface to borrow books with customizable due dates*
+### Borrow Book
+![Borrow](screenshots/borrow_view.png)
 
-### Loans View
-![Loans View](screenshots/loans_view.png)
-*Track all loans with status indicators and overdue highlighting*
+### Loans Tracking
+![Loans](screenshots/loans_view.png)
+
+### Edit Member
+![Edit](screenshots/edit_member_view.png)
+
+### Add Member
+![Add](screenshots/add_memberview.png)
 
 ## 🏗️ Architecture
 
